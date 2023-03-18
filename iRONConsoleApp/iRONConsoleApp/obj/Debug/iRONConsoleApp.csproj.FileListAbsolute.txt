@@ -1,0 +1,7 @@
+C:\Users\7328805\source\repos\iRONConsoleApp\iRONConsoleApp\bin\Debug\iRONConsoleApp.exe.config
+C:\Users\7328805\source\repos\iRONConsoleApp\iRONConsoleApp\bin\Debug\iRONConsoleApp.exe
+C:\Users\7328805\source\repos\iRONConsoleApp\iRONConsoleApp\bin\Debug\iRONConsoleApp.pdb
+C:\Users\7328805\source\repos\iRONConsoleApp\iRONConsoleApp\obj\Debug\iRONConsoleApp.csproj.AssemblyReference.cache
+C:\Users\7328805\source\repos\iRONConsoleApp\iRONConsoleApp\obj\Debug\iRONConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\7328805\source\repos\iRONConsoleApp\iRONConsoleApp\obj\Debug\iRONConsoleApp.exe
+C:\Users\7328805\source\repos\iRONConsoleApp\iRONConsoleApp\obj\Debug\iRONConsoleApp.pdb
